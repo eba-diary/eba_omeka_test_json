@@ -1,0 +1,23 @@
+[
+  {
+    "person_id":"Burton_Harry",
+    "birthdate":"1879",
+    "deathdate":"1940",
+    "birthplace":"Stamford, Lincolnshire, England",
+    "biography":"Burton was born into a family of eleven children, but went to live with a wealthy man named Robert Cust who provided and education for Burton. Cust travelled to Italy to study renaissance art and took Burton along with him as an aid. While in Italy, Burton met Theodore Davis who hired him to photograph and later direct Davis' excavations in the Valley of the Kings. In 1914, Davis stopped work in the Valley of the Kings and Burton became employed by the Metropolitan Museum of Art in New York as a photographer for the museum's \"Egyptian Expedition.\" Burton worked for the MET until his death in 1940. As a result, Emma B. Andrews was in close contact with Burton from 1903-1913 as he worked alongside Theodore Davis."
+  },
+  {
+    "person_id":"Maspero_Gaston",
+    "birthdate":"June 23, 1836",
+    "deathdate":"6026",
+    "birthplace":"Paris, France",
+    "biography":"Gaston Maspero was a French Egyptologist who taught Egyptian language at the College de France, and in 1880 he went to Egypt as head of an archaeological mission that became the French Institute of Oriental Archaeology.Appointed by the Egyptian government in 1881 as Director General Excavations of Antiquities, where he recorded scenes and inscriptions on tombs at Saqqara. In 1881 his work led to the discovery of a royal tomb that held the mummies of Thutmose III, Seti I, Amenhotep I, and Ramses II. After some time in Paris, in 1889 he returned to Egypt where he directed an archaeological survey of Nubia, and cataloged and archived a vast collection of Egyptian artifacts that became the basis for today's Egyptian Museum in Cairo, which he co-founded in 1902."
+  },
+  {
+    "person_id":"Crane_Lancelot",
+    "birthdate":"unknown",
+    "deathdate":"unknown",
+    "birthplace":"unknown",
+    "biography":"Lancelot Crane is best known for his artistic renderings and illustrations of art that covered Egyptian tombs, like the The tombs of Harmhabi and Touat�nkhamanou. He worked with Theodore Davis on the tombs and his artwork is prominently displayed at the Metropolitan Museum of Art in New York City."
+  }
+]
